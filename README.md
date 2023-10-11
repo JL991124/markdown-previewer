@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-This is markdown previewer app, which is a tool that takes user input in Markdown format, and displays the converted HTML in real time. This project is built using **React**, **Typescript** and **styled-components**.
+Welcome to my [markdown previewer website](https://jl991124-markdown-previewer.netlify.app). This is a tool that takes user input in Markdown format, and displays the converted HTML in real time. This project is built using **React**, **Typescript** and **styled-components**.
 
 ## Usage <a name = "usage"></a>
 
